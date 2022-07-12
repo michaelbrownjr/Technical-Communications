@@ -1,8 +1,8 @@
 # Technical-Communications
 
-### This repository serves as a set of projects dealing with multiple aspects of communicating with different audiences with a specific fictional scenario. 
+## This repository serves as a set of projects dealing with multiple aspects of communicating with different audiences with a specific fictional scenario. 
 
-#### Task 1 Scenario Setting:
+### Task 1 Scenario Setting:
 My company is considering the implementation of a technology solution to address a business problem for Google. As a member of the IT team, I was asked to select a solution to address the identified needs. I must uniquely inform two audiences in the company about what the solution is and its benefits. I've created two artifacts communicating this information tailored to meet the needs of each of the following groups:
 
 * Audience 1: executive leadership of the organization, such as the CIO, CFO, etc.
@@ -22,6 +22,6 @@ With these two different audiences, I will need to communicate the following:
 * Audience Analysis for Each Artifact 
 * Sources
 
-#### Task 2 Scenario Setting:
+### Task 2 Scenario Setting:
 Write a professional proposal based on a given Request for Proposal (RFP) document from the Seamus Company. 
 
